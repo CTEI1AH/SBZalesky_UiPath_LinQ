@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Excel",
+  "Type": "Screen",
+  "Id": "v7liimf-aUWtw500oABVIw",
+  "Reference": "fkin_yvJNk6z36HrzAS--g/v7liimf-aUWtw500oABVIw",
+  "ParentRef": "fkin_yvJNk6z36HrzAS--g/q0x9LlfPQUW2y5kM_YJEWA",
+  "Created": "2024-12-09T15:41:18.5126096Z",
+  "Updated": "2024-12-09T15:41:18.5126096Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Слушатели12.xlsx - Excel",
+  "Type": "App",
+  "Id": "DudP-D_kWk2LuM5M1d72Lg",
+  "Reference": "fkin_yvJNk6z36HrzAS--g/DudP-D_kWk2LuM5M1d72Lg",
+  "Created": "2024-12-05T11:56:25.9241756Z",
+  "Updated": "2024-12-05T11:56:25.9241756Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

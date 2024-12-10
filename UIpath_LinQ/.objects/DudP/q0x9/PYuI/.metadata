@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Слушатели12.xlsx - Excel",
+  "Type": "Screen",
+  "Id": "PYuI4_Uv8Ui8PPJLzRwdGQ",
+  "Reference": "fkin_yvJNk6z36HrzAS--g/PYuI4_Uv8Ui8PPJLzRwdGQ",
+  "ParentRef": "fkin_yvJNk6z36HrzAS--g/q0x9LlfPQUW2y5kM_YJEWA",
+  "Created": "2024-12-05T11:56:25.9645168Z",
+  "Updated": "2024-12-05T11:56:25.9645168Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
